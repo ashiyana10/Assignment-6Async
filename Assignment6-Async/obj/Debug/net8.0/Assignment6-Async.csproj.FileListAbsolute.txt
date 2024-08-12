@@ -1,0 +1,14 @@
+C:\Users\admin\Documents\Assignment6-Async\Assignment6-Async\bin\Debug\net8.0\Assignment6-Async.exe
+C:\Users\admin\Documents\Assignment6-Async\Assignment6-Async\bin\Debug\net8.0\Assignment6-Async.deps.json
+C:\Users\admin\Documents\Assignment6-Async\Assignment6-Async\bin\Debug\net8.0\Assignment6-Async.runtimeconfig.json
+C:\Users\admin\Documents\Assignment6-Async\Assignment6-Async\bin\Debug\net8.0\Assignment6-Async.dll
+C:\Users\admin\Documents\Assignment6-Async\Assignment6-Async\bin\Debug\net8.0\Assignment6-Async.pdb
+C:\Users\admin\Documents\Assignment6-Async\Assignment6-Async\obj\Debug\net8.0\Assignment6-Async.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\Assignment6-Async\Assignment6-Async\obj\Debug\net8.0\Assignment6-Async.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\Assignment6-Async\Assignment6-Async\obj\Debug\net8.0\Assignment6-Async.AssemblyInfo.cs
+C:\Users\admin\Documents\Assignment6-Async\Assignment6-Async\obj\Debug\net8.0\Assignment6-Async.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Assignment6-Async\Assignment6-Async\obj\Debug\net8.0\Assignment6-Async.dll
+C:\Users\admin\Documents\Assignment6-Async\Assignment6-Async\obj\Debug\net8.0\refint\Assignment6-Async.dll
+C:\Users\admin\Documents\Assignment6-Async\Assignment6-Async\obj\Debug\net8.0\Assignment6-Async.pdb
+C:\Users\admin\Documents\Assignment6-Async\Assignment6-Async\obj\Debug\net8.0\Assignment6-Async.genruntimeconfig.cache
+C:\Users\admin\Documents\Assignment6-Async\Assignment6-Async\obj\Debug\net8.0\ref\Assignment6-Async.dll
